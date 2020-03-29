@@ -1,6 +1,6 @@
 ﻿; Always on top
-; Ctrl + Space
-^SPACE::  Winset, Alwaysontop, , A
+; Ctrl + Alt + Space
+^!SPACE::  Winset, Alwaysontop, , A
 
 ; Win + F12
 #F12::
